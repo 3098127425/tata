@@ -1,6 +1,4 @@
  <?php
-echo "hello word";
-const $good;
 //echo "hello word";
 const GOOD=0;
 
